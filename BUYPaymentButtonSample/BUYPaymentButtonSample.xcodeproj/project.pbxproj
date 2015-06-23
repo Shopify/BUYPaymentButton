@@ -28,8 +28,8 @@
 		90E42CC21B2B599200D00D30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		90E42CC41B2B599200D00D30 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		90E42CC71B2B599200D00D30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		90E42CDD1B2B59C300D00D30 /* BUYPaymentButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BUYPaymentButton.h; path = ../../BUYPaymentButton.h; sourceTree = "<group>"; };
-		90E42CDE1B2B59C300D00D30 /* BUYPaymentButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BUYPaymentButton.m; path = ../../BUYPaymentButton.m; sourceTree = "<group>"; };
+		90E42CDD1B2B59C300D00D30 /* BUYPaymentButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BUYPaymentButton.h; path = ../../BUYPaymentButton/BUYPaymentButton.h; sourceTree = "<group>"; };
+		90E42CDE1B2B59C300D00D30 /* BUYPaymentButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BUYPaymentButton.m; path = ../../BUYPaymentButton/BUYPaymentButton.m; sourceTree = "<group>"; };
 		90E42CE01B2B5A1F00D00D30 /* PassKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PassKit.framework; path = System/Library/Frameworks/PassKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -306,6 +306,7 @@
 				90E42CD91B2B599200D00D30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
