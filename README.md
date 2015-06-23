@@ -4,7 +4,7 @@
 
 `BUYPaymentButton` automatically creates and returns a custom vector-based `UIButton` on older version of iOS 8 that's near identical to Apple's button and a `PKPaymentButton` on iOS 8.3 and later so you don't have to worry about any version logic or creating your own button with images.
 
-![BUYPaymentButton.png](BUYPaymentButton.png =320x)![PKPaymentButton.png](PKPaymentButton.png =320x)
+![BUYPaymentButton.png](https://raw.githubusercontent.com/Shopify/buypaymentbutton/master/BUYPaymentButton.png =320x)![PKPaymentButton.png](https://raw.githubusercontent.com/Shopify/buypaymentbutton/master/PKPaymentButton.png =320x)
 
 ## Installation
 
