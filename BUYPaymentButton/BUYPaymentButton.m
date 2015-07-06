@@ -568,7 +568,6 @@
 			return PKPaymentButtonTypePlain;
 		case BUYPaymentButtonTypeBuy:
 			return PKPaymentButtonTypeBuy;
-			break;
 	}
 }
 
