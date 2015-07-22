@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <PassKit/PassKit.h>
 
 #if defined(BUYFRAMEWORK_TARGET) && BUYFRAMEWORK_TARGET
 FOUNDATION_EXPORT double BUYPaymentButtonVersionNumber;
