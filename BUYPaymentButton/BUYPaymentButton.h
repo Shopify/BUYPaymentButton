@@ -6,6 +6,14 @@
 //  Copyright (c) 2015 Shopify Inc. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+#import <PassKit/PassKit.h>
+
+#if defined(BUYFRAMEWORK_TARGET) && BUYFRAMEWORK_TARGET
+FOUNDATION_EXPORT double BUYPaymentButtonVersionNumber;
+FOUNDATION_EXPORT const unsigned char BUYPaymentButtonVersionString[];
+#endif
+
 typedef NS_ENUM(NSInteger, BUYPaymentButtonStyle) {
     BUYPaymentButtonStyleWhite = 0,
     BUYPaymentButtonStyleWhiteOutline,

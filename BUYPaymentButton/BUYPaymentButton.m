@@ -6,7 +6,6 @@
 //  Copyright (c) 2015 Shopify Inc. All rights reserved.
 //
 
-@import PassKit;
 #import "BUYPaymentButton.h"
 
 @interface BUYCustomPaymentButton : UIButton
