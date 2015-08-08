@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'BUYPaymentButton'
-  s.version  = '1.0.1'
+  s.version  = '1.0.2'
   s.platform = :ios, '8.0'
   s.license  = 'MIT'
   s.summary  = 'Vector-based Apple Pay UIButton that supports all iOS 8 versions'
