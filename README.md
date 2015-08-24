@@ -16,6 +16,14 @@ Add the following to your [Podfile](http://guides.cocoapods.org/using/using-coco
 pod 'BUYPaymentButton'
 ```
 
+### Carthage
+
+Add the following to your [Cartfile](https://github.com/Carthage/Carthage/blob/master/Documentation/Artifacts.md#cartfile):
+
+```ruby
+github "Shopify/BUYPaymentButton"
+```
+
 ### Manually
 
 * Drag the `BUYPaymentButton/BUYPaymentButton` folder into your project.
