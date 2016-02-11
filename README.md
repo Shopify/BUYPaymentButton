@@ -8,7 +8,7 @@
 
 ## Installation
 
-### Cocoapods
+### CocoaPods
 
 Add the following to your [Podfile](http://guides.cocoapods.org/using/using-cocoapods.html):
 
